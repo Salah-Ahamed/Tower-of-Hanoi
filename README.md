@@ -1,2 +1,2 @@
 # Tower-of-Hanoi
-all the files in the master branch..
+all the files are in the master branch..
